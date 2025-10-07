@@ -1,0 +1,11 @@
+NB FAKE RESULTS (I saved these from https://github.com/MinaAlmasi/finetuning-BERT-bilingual-sentiment/blob/main/results/metrics/mBERT_all_metrics.txt)
+
+              precision    recall  f1-score   support
+
+    negative       0.52      0.52      0.52      1319
+     neutral       0.55      0.55      0.55      1529
+    positive       0.75      0.73      0.74      1335
+
+    accuracy                           0.60      4183
+   macro avg       0.60      0.60      0.60      4183
+weighted avg       0.60      0.60      0.60      4183
