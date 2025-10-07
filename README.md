@@ -17,6 +17,7 @@ The repository is structured as such:
 | Folder/File               | Description |
 |---------------------------|-------------|
 | `data/`                   | Contains raw data and processed ... |
+| `plots/`                  | Word distributions etc. |
 | `results/`                | Evaluation results for the main analysis. |
 | `src/`                    | Python code related to the project. |
 
