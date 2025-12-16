@@ -13,9 +13,9 @@ You can also use this README within the data folder to provide instructions on h
 ## DATA FOLDER README EXAMPLE
 Download the *Indo fashion* [Kaggle dataset](https://www.kaggle.com/datasets/validmodel/indo-fashion-dataset) dataset from kaggle and place it in this folder ! 
 
-The data should be structured with subdirectories as such: 
+If downloaded and placed properly, this folder should be structured with subdirectories as such: 
 ```
-└── images
+└── data
     ├── README.md
     ├── metadata      <--- JSON files containing metadata for each set of data (test_data.json, train_data.json, val_data.json)     
     ├── test          <--- JPEG files as test set
@@ -29,10 +29,7 @@ If you do it as the example above, remember to *actually* use the folder for you
 **To avoid pushing the data, you should place everything in the folder but this README in `.gitignore`.** For the example above, this would be: 
 ```
 # ignore data folder, but not the readme within !
-images/*
-!images/README.md 
-
-# ignore models
-models/*
-!models/README.md
+data/*
+!data/README.md 
 ```
+
