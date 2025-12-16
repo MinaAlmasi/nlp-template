@@ -22,7 +22,7 @@ The repository is structured as such:
 | `src/`                    | Python code related to the project. |
 
 
-For a greater overview of the Python code, see the [src/README.md](src/README.md)
+For a greater overview of the Python code, see the [src/README.md](src/README.md). See also [data/README.md] for an explanation
 
 
 ## 💻 Technical Requirements 
@@ -36,6 +36,8 @@ Prior to running the code, run the command below to create a virtual environment
 bash setup.sh
 ```
 
+> Note: If users need to download any data and place it in the `data` folder, you would tell them here to go read the instructions on how to do so in the [data/README.md](data/README.md).
+
 ##  🚀 Usage 
 To run any script in the `src` folder, you can type specify the script's path in the terminal (with the `.venv` active):
 ```bash
@@ -48,8 +50,6 @@ python src/get_paths.py
 # quit env 
 deactivate
 ```
-
-Specifically to reproduce the results of the main analysis, run ....
 
 ## 🌟 Acknowledgements
 If you want to thank a data provider or a package that you heavily relied on ;)
