@@ -1,4 +1,4 @@
-# NlP TEMPLATE REPOSITORY
+# NLP TEMPLATE REPOSITORY
 Created by Mina Almasi for the NLP course!
 
 > Warning: All of this repository is either fake placeholder text or random code!
