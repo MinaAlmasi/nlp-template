@@ -3,7 +3,7 @@ This folder can be used in different ways:
 
 1. You can use this README to provide instructions on how to download the data and place it here. While you work on the code, you would also place it in this folder, but ignore the file using `gitignore`. See [Example 1](#example-1-readme-without-pushing-data) and its meta explanation. 
 
-2. You can upload files directly (e.g., `raw_data.txt` and `clean_data.txt`). In this instance, it would still be a good idea to give a short overview of what the folder contains in README. See [Example 2](#example-2-readme-where-you-push-the-data).
+2. You can upload files directly (e.g., `raw_data.txt` and `clean_data.txt`). It would still be a good idea to give a short overview of what the folder contains in README. See [Example 2](#example-2-readme-where-you-push-the-data).
 
 ### Note: If your data is not freely available for download
 1. You can also write in your exam that the dataset is sent as "extra material" to the examiners (if you are allowed to share but not distribute widely on GitHub). 
