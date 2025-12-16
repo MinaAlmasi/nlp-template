@@ -6,7 +6,7 @@ You can also use this README within the data folder to provide instructions on h
 [Example](#data-folder-readme-example) of how this could look is below. 
 
 ### Note: If your data is not freely available for download
-1. You can also write in your exam that the dataset is sent as "extra material" to the examiners (if possible depending on where you got it from). 
+1. You can also write in your exam that the dataset is sent as "extra material" to the examiners (if you are allowed to share but not distribute widely on GitHub). 
 
 2. A final alternative is to provide some fake "dummy data" that makes your code able to run.
 
