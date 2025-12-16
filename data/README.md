@@ -3,7 +3,7 @@ This folder can be used in different ways. If the dataset's license permits it, 
 
 You can also use this README within the data folder to provide instructions on how to download the data and place it here. You would also place it here, but ignore the file using `gitignore`.
 
-Example of how this could look is below. 
+[Example](#data-folder-readme-example) of how this could look is below. 
 
 ### Note: If your data is not freely available for download
 1. You can also write in your exam that the dataset is sent as "extra material" to the examiners (if possible depending on where you got it from). 
