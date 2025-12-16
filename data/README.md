@@ -23,4 +23,16 @@ The data should be structured with subdirectories as such:
     └── val           <--- JPEG files as validation set
 ```
 
-The folder `data/images` is ignored by git (in `.gitignore`), so you will not accidentally push it. 
+### Note: Use this folder but place everything but .README in gitignore!
+If you do it as the example above, remember to *actually* use the folder for your data, so that your paths from your scripts match this. 
+
+**To avoid pushing the data, you should place everything in the folder but this README in `.gitignore`.** For the example above, this would be: 
+```
+# ignore data folder, but not the readme within !
+images/*
+!images/README.md 
+
+# ignore models
+models/*
+!models/README.md
+```
