@@ -5,6 +5,11 @@ You can also use this README within the data folder to provide instructions on h
 
 Example of how this could look is below. 
 
+### Note: If your data is not freely available for download
+1. You can also write in your exam that the dataset is sent as "extra material" to the examiners (if possible depending on where you got it from). 
+
+2. A final alternative is to provide some fake "dummy data" that makes your code able to run.
+
 ## DATA FOLDER README EXAMPLE
 Download the *Indo fashion* [Kaggle dataset](https://www.kaggle.com/datasets/validmodel/indo-fashion-dataset) dataset from kaggle and place it in this folder ! 
 
