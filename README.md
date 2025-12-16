@@ -22,7 +22,7 @@ The repository is structured as such:
 | `src/`                    | Python code related to the project. |
 
 
-For a greater overview of the Python code, see the [src/README.md](src/README.md). See also [data/README.md] for an explanation
+For a greater overview of the Python code, see the [src/README.md](src/README.md).
 
 
 ## 💻 Technical Requirements 
